@@ -4,8 +4,8 @@
 
 * Semantic Segmentation
   - 【SOTA】	[DeepLabv3+ (Xception-JFT)](https://arxiv.org/pdf/1802.02611v3.pdf)
-    - [DeepLabv3]()
-      - [Atrous Conv]()
-      - [Spatial Pyramid Pooling]()
-    - [Encoder-Decoder]()
-    - [Xception]()
+    - Spatial Pyramid Pooling [18,19,20]
+    - encoder-decoder structure [21,22]
+    - DeepLabv3 [23]
+      -  parallel atrous convolution with different rates
+    - Xception model [26]
